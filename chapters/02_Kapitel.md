@@ -73,8 +73,8 @@ neuen Herren durch Tatarenhorden, die von Sibirien nach Rußland einbrachen,
 häufig streitig gemacht. Er konnte nur dadurch gesichert werden, daß
 man an den Ufern des Tobol, Irtysch und anderen Flüssen Festungen anlegte.
 
-:::: { .wrap-60 .break-before }
-![Jermak, der Eroberer Sibiriens. — Nach dem Denkmal von Antokolsky.](Auf_der_sibirischen_Bahn_nach_China_021.jpg "Jermak, der Eroberer Sibiriens. — Dach dem Denkmal von Autokolski.")
+:::: { .wrap-50 .break-before }
+![Jermak, der Eroberer Sibiriens. — Nach dem Denkmal von Antokolsky.](Auf_der_sibirischen_Bahn_nach_China_021.jpg "Jermak, der Eroberer Sibiriens. — Dach dem Denkmal von Autokolski."){#b021}
 ::::
 
 Nachdem man diesen Entschluß gefaßt hatte, glaubte man in dem Kosakenführer
@@ -105,7 +105,7 @@ Auch nach dem Tode ihres Führers, der im Jahre 1584 bei einem Kriegszug
 überfallen wurde und im Irtysch ertrank, waren die Kosaken bei dem Gedanken an
 Sibirien von wilder Abenteuerlust erfüllt, der sich kein Halt gebieten ließ. Aus
 den Eroberungszügen entwickelten sich feste Niederlassungen und aus diesen
-Städte. Im Jahre 1586 wurde Tobolsk, 1604 Tomsk^[^0203]^, 1632 Jakutsk^[^0204]^
+Städte. Im Jahre 1586 wurde Tobolsk^[^0202]^, 1604 Tomsk^[^0203]^, 1632 Jakutsk^[^0204]^
 und 1652 Irkutsk^[^0205]^ gegründet. Im Jahre 1649 drang sogar der Kosakenführer
 Chabarow^[^0206]^, der einen Pelzhandel betrieb, über das
 Jablonowygebirge^[^0207]^ bis an die Ufer des Amur vor. Das ganze nördliche
