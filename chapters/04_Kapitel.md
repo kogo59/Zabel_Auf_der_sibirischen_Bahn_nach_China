@@ -156,7 +156,7 @@ ertönt.
 ::::
 
 :::: { .wrap-100 }
-![Kleine Station. Sibirien](Auf_der_sibirischen_Bahn_nach_China_048b.jpg "Kleine Station. Sibirien"){#b048b}
+![Kleine Station. Sibirien.](Auf_der_sibirischen_Bahn_nach_China_048b.jpg "Kleine Station. Sibirien"){#b048b}
 ::::
 
 Am Dienstag erreichen wir das bewaldete Hügelland des Ural. Eine Reihe
@@ -378,15 +378,11 @@ uns allerdings der Umstand dienen, daß es sich hierbei nicht um einen Mangel be
 der Ausführung der Bahn, sondern um die unglaubliche Leichtfertigkeit eines
 wahrscheinlich angesäuselten Lokomotivführers handelte.
 
-:::: {.wrap-20}
+:::: {.wrap-10}
 ![](Auf_der_sibirischen_Bahn_nach_China_057.jpg ""){#b057}
 ::::
 
 :::
-
-:::: align-center
-****
-::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
 

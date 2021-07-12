@@ -424,15 +424,11 @@ bewirtet wurde. Mit vielen herzlichen Wünschen für eine glückliche Reise und
 Heimkehr fuhr ich wieder ans Land zurück, um im Hotel meine Sachen zu packen und
 nach dem Nikolaibahnhof zu fahren, von wo mich der Nachtzug nach Moskau brachte.
 
-:::: {.wrap-20}
+:::: {.wrap-10}
 ![](Auf_der_sibirischen_Bahn_nach_China_017.jpg ""){#b017}
 ::::
 
 :::
-
-:::: align-center
-****
-::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
 

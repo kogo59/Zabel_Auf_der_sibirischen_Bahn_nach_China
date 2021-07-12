@@ -278,10 +278,6 @@ aufzufassen, wie sie wirklich liegen.
 
 :::
 
-:::: align-center
-****
-::::
-
 #### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [*Jermak*: vergleiche [Jermak Timofejewitsch](https://de.wikipedia.org/wiki/Jermak_Timofejewitsch)]{.footnote}

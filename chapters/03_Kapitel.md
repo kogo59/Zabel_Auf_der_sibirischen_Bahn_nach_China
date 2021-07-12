@@ -343,15 +343,11 @@ Leben hervor und ließ mit überraschender Gewalt eine frische Kraft
 hervorsprudeln, von deren Bedeutung sich niemand an seinem Arbeitstisch zu Hause
 eine Vorstellung machen konnte.
 
-:::: {.wrap-20}
+:::: {.wrap-10}
 ![](Auf_der_sibirischen_Bahn_nach_China_042.jpg ""){#b042}
 ::::
 
 :::
-
-:::: align-center
-****
-::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
