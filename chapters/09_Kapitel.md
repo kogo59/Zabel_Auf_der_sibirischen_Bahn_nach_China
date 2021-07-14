@@ -341,7 +341,6 @@ lassen.
 ![](Auf_der_sibirischen_Bahn_nach_China_144.jpg ""){#b144}
 ::::
 
-
 :::
 
 #### **Anmerkungen** {.break-before .unnumbered}
