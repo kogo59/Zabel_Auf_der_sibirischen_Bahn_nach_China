@@ -128,7 +128,7 @@ Die Unterhaltung kam um so schneller in Fluß, als das Schiff so gleichmäßig u
 ruhig lief, wie wir es uns nur wünschen konnten. Wir erblickten die englische
 Besitzung Weihaiwei^[^1002]^ mit den Schiffen im Hafen, von wo die elektrischen Lichter
 der Straßen und Häuser zu unserem Schiff hinübergrüßten. Kaum hatten wir jedoch
-das Kap Schantung umjahren und in südlicher Richtung den Weg in den Stillen
+das Kap Schantung umfahren und in südlicher Richtung den Weg in den Stillen
 Ozean genommen, so merkten wir an den schweren, lang auslaufenden Wellen, daß
 hier kurze Zeit vor uns ein Sturm getobt hatte. Seine Kraft war allerdings
 gebrochen, aber die Bewegung im Meere machte sich an der Dünung bemerkbar, die
