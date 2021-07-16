@@ -1,7 +1,7 @@
 # **Sikawei.** {#zwoelf .unnumbered}
 
 :::: { .wrap-80 }
-![](Auf_der_sibirischen_Bahn_nach_China_160.jpg "")
+![](Auf_der_sibirischen_Bahn_nach_China_187.jpg "")
 ::::
 
 :::: { .align-center .fs-s }
@@ -344,7 +344,6 @@ müssen, ihre Warnungen zukommen zu lassen.
 ::::
 
 :::
-
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
