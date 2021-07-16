@@ -1,4 +1,4 @@
-# Die Nordwest-Passage
+# Auf der sibirischen Bahn nach China.
 
 This is a git repository of the source files for the book
 "Auf der sibirischen Bahn nach China."
