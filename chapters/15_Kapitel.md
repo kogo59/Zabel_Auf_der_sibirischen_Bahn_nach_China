@@ -180,7 +180,7 @@ Sibiriens an als Verkünder des gewaltigen Unternehmens, das mit überraschender
 Schnelligkeit zur Ausführung kommen sollte.
 
 Wir besitzen über diese Reise ein ausführliches Reisewerk aus der Feder des
-Fürsten Uchtomski, den wir bereits im Anfang unseres Werkes erwähnt und
+Fürsten Uchtomski^[^1504]^, den wir bereits im Anfang unseres Werkes erwähnt und
 charakterisiert haben. Ihm war die Aufgabe zugefallen, die Eindrücke dieser
 Weltfahrt von Tag zu Tag festzuhalten und ein Werk herauszugeben, das für die
 weiten Kreise des gebildeten Publikums auf Verständnis und Interesse rechnen
@@ -209,7 +209,7 @@ dessen unermüdlicher Tätigkeit Ostasien in seiner jüngsten Entwicklung so vie
 zu danken hat.
 
 Es folgte die Reise auf dem Amur bis nach Blagowjeschtschensk. „Im allgemeinen,“
-äußert sich Fürst Uchtomsti in seinem Werke, „können die Ufer des Amur von
+äußert sich Fürst Uchtomski in seinem Werke, „können die Ufer des Amur von
 Blagowieschtschensk an stromaufwärts schön genannt werden. Aber diese Schönheit
 ist, wie überhaupt der ganze Amur, bei aller Mannigfaltigkeit zu eintönig; auf
 der ungeheuren Strecke läßt schließlich das Auge bei der ewigen Wiederkehr des
@@ -430,3 +430,5 @@ Europas immer lebhafter beschäftigen.
 [^1502]: [*Murawiew-Amurski*: vergleiche [Nikolai Nikolajewitsch Murawjow-Amurski](https://de.wikipedia.org/wiki/Nikolai_Nikolajewitsch_Murawjow-Amurski)]{.footnote}
 
 [^1503]: [*Karasin*: vergleiche [Nikolai Nikolajewitsch Karasin](https://de.wikipedia.org/wiki/Nikolai_Nikolajewitsch_Karasin)]{.footnote}
+
+[^1504]: [*Uchtomski*: vergleiche [Esper Ukhtomsky](https://en.wikipedia.org/wiki/Esper_Ukhtomsky)]{.footnote}
