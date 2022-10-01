@@ -96,7 +96,7 @@ verfeinerten Lebensgewohnheiten wie Fettkügelchen schwimmen.
 
 Am Zugang zur Brücke steht ein herkulisch gebauter indischer Polizeibeamter, von
 dessen brauner Hautfarbe sich die gelbe Khakiuniform, die er trägt, und der
-feuerroie, hochgedrehte Turban, den er sich auf den Kopf gesetzt hat, seltsam
+feuerrote, hochgedrehte Turban, den er sich auf den Kopf gesetzt hat, seltsam
 abheben. Wie angegossen steht er auf seinem Platz inmitten des unaufhörlichen
 Gewoges von Menschen, Wagen und Tieren, das ihn umgibt, und lenkt den Verkehr
 durch bloßes Aufheben der rechten Hand.
