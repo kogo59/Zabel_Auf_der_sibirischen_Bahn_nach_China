@@ -11,9 +11,11 @@ Author:
 
 
 # Licenses
-This work is in the public domain in the United States because it was
-published (or registered with the U.S. Copyright Office)
-before January 1, 1925.
+The author died  before 1940, so this work should be in the public domain in its
+country of origin and other countries and areas where the copyright term is the
+author's life plus 80 years or less. This work is in the public domain in the
+United States because it was published (or registered with the U.S. Copyright
+Office) before January 1, 1926.
 
 
 # Build
@@ -23,8 +25,3 @@ before January 1, 1925.
 
 # Sources
 Auf der sibirischen Bahn nach China. [archive.org](https://archive.org/details/bub_gb_Mj8EAAAAYAAJ)
-<<<<<<< HEAD
-=======
-
-
->>>>>>> abf50ac5012b9007ad0f18ca66afb2f0d64169d0
