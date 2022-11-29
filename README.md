@@ -23,3 +23,8 @@ before January 1, 1925.
 
 # Sources
 Auf der sibirischen Bahn nach China. [archive.org](https://archive.org/details/bub_gb_Mj8EAAAAYAAJ)
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> abf50ac5012b9007ad0f18ca66afb2f0d64169d0
