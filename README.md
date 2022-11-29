@@ -23,6 +23,3 @@ before January 1, 1925.
 
 # Sources
 Auf der sibirischen Bahn nach China. [archive.org](https://archive.org/details/bub_gb_Mj8EAAAAYAAJ)
-
-# ePUB
-Auf der sibirischen Bahn nach China. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=340728)
