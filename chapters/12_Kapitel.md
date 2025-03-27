@@ -149,7 +149,7 @@ schmale, bleiche, knochige, bartlose Gesicht verriet keinerlei Leben. Nur die
 Augen glühten und sogen alles in sich auf, was sie in dem rätselhaften Spiel der
 Himmelserscheinungen zu erkennen glaubten.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100    }
 ![Blick auf Sikawei.](Auf_der_sibirischen_Bahn_nach_China_193a.jpg "Blick auf Sikawei."){#b193a}
 ::::
 
@@ -344,8 +344,6 @@ müssen, ihre Warnungen zukommen zu lassen.
 ::::
 
 :::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1200]: [*Sikawei*: vergleiche [Xujiahui](https://en.wikipedia.org/wiki/Xujiahui)]{.footnote}
 

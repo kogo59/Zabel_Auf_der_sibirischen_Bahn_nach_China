@@ -58,7 +58,7 @@ diesem Tisch ist außerdem in einer Nische, gegenüber dem Sofa, Platz für eine
 Strohsessel, wodurch eine niedliche Plauder- oder Schmollecke je nach dem
 Verhältnis gebildet wird, in dem man zu seinem Reisegefährten steht.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100    }
 ![Lokomotive der sibirischen Bahn.](Auf_der_sibirischen_Bahn_nach_China_031a.jpg "Lokomotive der sibirischen Bahn."){#b031a}
 ::::
 
@@ -349,7 +349,6 @@ eine Vorstellung machen konnte.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [*Nikolaus II.*: vergleiche [Nikolaus II.](https://de.wikipedia.org/wiki/Nikolaus_II._(Russland))]{.footnote}
 

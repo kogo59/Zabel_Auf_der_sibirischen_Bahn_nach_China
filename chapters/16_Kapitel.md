@@ -176,7 +176,7 @@ Tschechow und Doroschewitsch eine eingehende literarische Würdigung erfahren
 hat. Die trüben und traurigen Vorstellungen von Sibirien verblassen allmählich
 vor dem neuen Licht, das über dem Lande hoffnungsvoll aufzugehen scheint.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100    }
 ![Tee-Transport. Irkutsk.](Auf_der_sibirischen_Bahn_nach_China_270a.jpg "Tee-Transport. Irkutsk."){#b270a}
 ::::
 
@@ -360,9 +360,6 @@ Bahn zur Ausführung bringen konnte.
 ::::
 
 :::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1600]: [*Middendorf*: vergleiche [Alexander Theodor von Middendorff](https://de.wikipedia.org/wiki/Alexander_Theodor_von_Middendorff)]{.footnote}
 

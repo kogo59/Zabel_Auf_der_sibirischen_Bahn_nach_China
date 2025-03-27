@@ -76,7 +76,7 @@ er sich als zu schwach erwiesen hat, zu verbessern. An einzelnen Strecken hat
 man mehrere Werst lang ganz neue, höhere Dämme neben den alten
 niedrigen aufgeschüttet, die bei starken Regengüssen leicht unterspült wurden.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100    }
 ![Brücke über den Jenissei.](Auf_der_sibirischen_Bahn_nach_China_060a.jpg "Brücke über den Jenissei."){#b060a}
 ::::
 
@@ -189,7 +189,7 @@ Ischim angelegt und auf den Namen der beiden Apostel Peter und Paul getauft.
 Bald entwickelte sich hier ein wichtiger Sammelpunkt für die Handelsartikel, die
 aus Mittelasien von der Bucharei bis nach China eingeführt wurden.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100    }
 ![Stadt Kurgan.](Auf_der_sibirischen_Bahn_nach_China_065.jpg "Stadt Kurgan."){#b065}
 ::::
 
@@ -295,7 +295,7 @@ Jenissei gewährt an dieser Stelle ein imponierendes Bild mit seiner Breite von
 Wasser hervorragen. Außerdem ist der Fluß zu beiden Seiten von bewaldeten Höhen
 umgeben, die in das Panorama eine beständige Abwechslung bringen.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100    }
 ![Tomsk.](Auf_der_sibirischen_Bahn_nach_China_069.jpg "Tomsk."){#b069}
 ::::
 
@@ -356,7 +356,7 @@ Anlage und die Verteilung der Hauptgebäude erkennen kann. Sie werden alle
 überragt von den fünf Kuppeln und dem freistehenden Glockenturm der Kasanschen
 Kathedrale, in der Mitte eines großen Platzes.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100    }
 ![Das Ufer der Angara auf dem Wege zum Baikalsee.](Auf_der_sibirischen_Bahn_nach_China_071a.jpg "Das Ufer der Angara auf dem Wege zum Baikalsee."){#b071a}
 ::::
 
@@ -472,8 +472,6 @@ das Wild hervorgescheucht werde.
 ::::
 
 :::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0500]: [*Tobol*: vergleiche [Tobol](https://de.wikipedia.org/wiki/Tobol)]{.footnote}
 

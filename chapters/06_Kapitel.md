@@ -31,7 +31,7 @@ in einer Linie nebeneinander, sondern zu zweien, so daß sie ein Quadrat
 begrenzten. Mächtige, tiefschwarze Wolken wirbelten daraus empor, blieben eine
 Weile in der dicken Luft hängen und zerteilten sich langsam im Nebel.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100    }
 ![Station Baikal.](Auf_der_sibirischen_Bahn_nach_China_077a.jpg "Station Baikal."){#b077a}
 ::::
 
@@ -356,7 +356,7 @@ lassen. In Irkutsk meint man, daß man nur auf dem Baikalsee aus tiefem Herzen
 beten lerne. Schon den Mongolen galt er als das „heilige Meer“, dem man mit
 ehrfürchtiger Scheu nahte.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100    }
 ![Baikal am Baikalsee.](Auf_der_sibirischen_Bahn_nach_China_088a.jpg "Station Baikal."){#b088a}
 ::::
 
@@ -381,8 +381,6 @@ nicht mehr zu wechseln brauchen.
 ::::
 
 :::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0600]: [*Trajektdampfer*: vergleiche [Eisenbahnfähre](https://de.wikipedia.org/wiki/Eisenbahnf%C3%A4hre)]{.footnote}
 

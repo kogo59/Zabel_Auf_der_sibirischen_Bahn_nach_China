@@ -343,6 +343,5 @@ lassen.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0900]: [*Tschifu*: vergleiche [Zhifu](https://de.wikipedia.org/wiki/Zhifu)]{.footnote}

@@ -369,8 +369,6 @@ unseren Augen immer malerischer gruppieren und deutlicher voneinander abheben.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1000]: [*Tsingtau*: vergleiche [Qingdao](https://de.wikipedia.org/wiki/Qingdao)]{.footnote}
 
 [^1001]: [*Kiautschou*: vergleiche [Kiautschou](https://de.wikipedia.org/wiki/Kiautschou)]{.footnote}

@@ -73,7 +73,7 @@ neuen Herren durch Tatarenhorden, die von Sibirien nach Rußland einbrachen,
 häufig streitig gemacht. Er konnte nur dadurch gesichert werden, daß
 man an den Ufern des Tobol, Irtysch und anderen Flüssen Festungen anlegte.
 
-:::: { .wrap-50 .break-before }
+:::: { .wrap-50    }
 ![Jermak, der Eroberer Sibiriens. — Nach dem Denkmal von Antokolsky.](Auf_der_sibirischen_Bahn_nach_China_021.jpg "Jermak, der Eroberer Sibiriens. — Dach dem Denkmal von Autokolski."){#b021}
 ::::
 
@@ -277,13 +277,6 @@ ausgehen muß, um sich nicht in Übertreibungen zu verlieren, sondern die Dinge 
 aufzufassen, wie sie wirklich liegen.
 
 :::
-
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [*Jermak*: vergleiche [Jermak Timofejewitsch](https://de.wikipedia.org/wiki/Jermak_Timofejewitsch)]{.footnote}
 

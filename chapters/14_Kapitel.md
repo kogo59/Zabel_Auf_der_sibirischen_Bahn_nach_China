@@ -265,7 +265,7 @@ bittet im Namen der russisch-französischen Allianz um eine kleine Unterstützun
 Er wird möglichst schnell an die Luft gesetzt und sucht in dem Zuge nach einem
 Dummen, der ihm zum Opfer fallen könnte.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100    }
 ![Eine Haltestelle in der Mandschurei.](Auf_der_sibirischen_Bahn_nach_China_233a.jpg "Eine Haltestelle in der Mandschurei."){#b233a}
 ::::
 
@@ -626,18 +626,13 @@ breitet sich in prächtiger Beleuchtung vor uns aus. Während wir aus dem Coupé
 steigen, zeigt die Uhr des Kursk-Nowgoroder Bahnhofes genau ein Uhr zwanzig
 Minuten, wie es der Fahrplan verheißt.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100    }
 ![Moskau mit dem Turm „Iwan Weliki‟ (in der Mitte).](Auf_der_sibirischen_Bahn_nach_China_246.jpg "Moskau mit dem Turm „Iwan Weliki‟ (in der Mitte)."){#b246}
-::::
-
-:::: align-center
-****
 ::::
 
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1400]: [*Augusta Viktoria*: vergleiche [Augusta Viktoria](https://de.wikipedia.org/wiki/Augusta_Victoria)]{.footnote}
 

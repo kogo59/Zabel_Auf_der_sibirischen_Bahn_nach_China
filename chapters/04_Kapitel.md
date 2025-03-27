@@ -151,7 +151,7 @@ verschwinden kann. Wir lassen daher unsere Coupés schließen und betrachten das
 Schauspiel aus angemessener Entfernung, bis das dritte Zeichen zur Abfahrt
 ertönt.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100    }
 ![Ufa.](Auf_der_sibirischen_Bahn_nach_China_048a.jpg "Ufa."){#b048a}
 ::::
 
@@ -384,7 +384,6 @@ wahrscheinlich angesäuselten Lokomotivführers handelte.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0400]: [*Tula*: vergleiche [Tula](https://de.wikipedia.org/wiki/Tula)]{.footnote}
 

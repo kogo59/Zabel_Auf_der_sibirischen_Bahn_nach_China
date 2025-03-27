@@ -47,7 +47,7 @@ der nach einer langen Seereise zum erstenmal wieder festen Boden unter sich
 fühlt. Ebenso glaubte ich immer noch die Bewegung des sibirischen Zuges in den
 Gliedern zu spüren und das Ächzen der Lokomotive zu hören.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100    }
 ![Moskau. Basar.](Auf_der_sibirischen_Bahn_nach_China_249a.jpg "Moskau. Basar."){#b249a}
 ::::
 
@@ -420,8 +420,6 @@ Europas immer lebhafter beschäftigen.
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1500]: [*Gustav Rose*: vergleiche [Gustav Rose](https://de.wikipedia.org/wiki/Gustav_Rose)]{.footnote}
 

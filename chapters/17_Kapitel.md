@@ -295,10 +295,6 @@ sibirischen Zuges saßen, schon jetzt fast zur Wahrheit geworden.
 ::::
 
 
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1700]: [*Echelon*: vergleiche [Echelon formation](https://en.wikipedia.org/wiki/Echelon_formation)]{.footnote}
 
 [^1701]: [*Pud*: vergleiche [Pud](https://de.wikipedia.org/wiki/Pud_(Einheit))]{.footnote}

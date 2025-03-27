@@ -134,7 +134,7 @@ Während der Chinese vorwärts läuft und seine Last zieht, schweben auf der Kar
 oft höchst seltsame und verschiedene Werte in der Balance, etwa ein gestohlener
 Sack Mehl mit einem Polizisten oder ein Schwein mit einer alten Chinesin.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Rickscha-Mann.](Auf_der_sibirischen_Bahn_nach_China_164.jpg "Rickscha-Mann."){#b164}
 ::::
 
@@ -194,7 +194,7 @@ deutsche Fahne flattern, während davor auf einer hohen Stange sowie in einer
 Halle die Sturmsignale, das Einlaufen sowie die Termine für das Auslaufen der
 Schiffe verzeichnet sind.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![„Bund” in Schanghai mit  Yangtse-Dampfer „Peking”.](Auf_der_sibirischen_Bahn_nach_China_166.jpg "„Bund” in Schanghai mit  Yangtse-Dampfer „Peking”."){#b166}
 ::::
 
@@ -410,7 +410,7 @@ Anlagen auf Schritt und Tritt unser Interesse erregt und uns endlich mit stummem
 Schauen und Staunen erfüllt, ist ein vollendetes Märchen aus einer Welt, die wir
 bisher immer ins Land der Träume verwiesen haben.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Teehaus in Schanghai.](Auf_der_sibirischen_Bahn_nach_China_174.jpg "Teehaus in Schanghai."){#b174}
 ::::
 
@@ -523,7 +523,7 @@ lästiger strömt uns der Schweiß von der Stirn, während der bezopfte Kellner 
 Tee und Zigaretten bringt. Der chinesische Nachbar bietet uns höflich Feuer an,
 und wir versuchen nach Kräften, die Luft qualmend noch mehr zu verschlechtern.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Straße in Schanghai.](Auf_der_sibirischen_Bahn_nach_China_178.jpg "Straße in Schanghai."){#b178}
 ::::
 
@@ -743,8 +743,6 @@ dereinst auch in Schanghai eine führende Rolle zu übernehmen.
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1100]: [*Reinhold Begas*: vergleiche [Reinhold Begas](https://de.wikipedia.org/wiki/Reinhold_Begas)]{.footnote}
 

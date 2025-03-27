@@ -281,7 +281,7 @@ in dem die Europäer, die Gendarme, Bahnbeamte und Fahrgäste, fast verschwinden
 Alte Frauen werfen sich auf die Erde und betteln um eine Gabe. Kranke strecken
 uns in mitleiderregender Weise ihre verkrüppelten und wunden Glieder entgegen.
 
-:::: { .wrap-100 .break-before }
+:::: { .wrap-100    }
 ![Mukden.](Auf_der_sibirischen_Bahn_nach_China_100a.jpg "Mukden"){#b100a}
 ::::
 
@@ -339,7 +339,6 @@ und auf kürzeren Strecken schon jetzt tatsächlich versucht wird.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0700]: [*Sselenga*: vergleiche [Selenga](https://de.wikipedia.org/wiki/Selenga)]{.footnote}
 

@@ -522,11 +522,6 @@ unentbehrlich sein wird.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1300]: [Vergl. des Verfassers „Zur modernen Dramaturgie. Studien und Kritiken.“ Drei Bände. Oldenburg und Leipzig 1898-1903.]{.footnote}
 

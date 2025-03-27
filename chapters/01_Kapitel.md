@@ -248,7 +248,7 @@ Wie sieht es endlich in Dalny und Port Arthur aus? Bei dieser Frage wurden meine
 Tischgenossen ganz besonders redselig und schilderten die Gegend in Farben, als
 ob es sich um ein wahres Märchenland handelte.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![St. Petersburg. Winterpalais. Newaseite](Auf_der_sibirischen_Bahn_nach_China_010.jpg "St. Petersburg. Winterpalais. Vewaseite"){#b010}
 ::::
 
@@ -309,7 +309,7 @@ breit sich öffnenden Vorgarten zur Einfahrt, auf der man in einem großen Bogen
 zu dem Ministerium gelangt. Der Fürst ist sehr beschäftigt, aber er wird mich
 doch empfangen.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Eisbrecher „Baikal“.](Auf_der_sibirischen_Bahn_nach_China_012.jpg "Eisbrecher „Baikal“."){#b012}
 ::::
 
@@ -429,8 +429,6 @@ nach dem Nikolaibahnhof zu fahren, von wo mich der Nachtzug nach Moskau brachte.
 ::::
 
 :::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [*Alexander Schmidt*: vergleiche [Alexander Schmidt](https://de.wikipedia.org/wiki/Alexander_Schmidt_(Philologe))]{.footnote}
 

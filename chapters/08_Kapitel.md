@@ -103,7 +103,7 @@ Ozean im Laufe von drei Jahren ein paar hundert Häuser nach demselben Modell
 erbaut und zu Wohnungen eingerichtet, die man den Ingenieuren und Beamten zur
 Verfügung stellte.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Dalny.](Auf_der_sibirischen_Bahn_nach_China_106.jpg "Dalny."){#b106}
 ::::
 
@@ -623,7 +623,7 @@ Weg zum Weltverkehr auf dem Wasser und schuf sich, neuntausend Kilometer von
 Petersburg, an den Ufern des Stillen Ozeans einen Ersatz für den Weg zum
 Mittelmeer, der durch Konstantinopel versperrt ist.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Denkmal des Admirals Newelski in Wladiwostok.](Auf_der_sibirischen_Bahn_nach_China_126.jpg "Denkmal des Admirals Newelski in Wladiwostok."){#b126}
 ::::
 
@@ -720,7 +720,6 @@ im Kampf um das ostasiatische Küstengebiet der Sieg zufallen soll.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0800]: [*Ganz & Co.*: vergleiche [Ganz](https://de.wikipedia.org/wiki/Ganz_(Unternehmen))]{.footnote}
 
