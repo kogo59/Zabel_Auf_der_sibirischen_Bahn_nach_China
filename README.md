@@ -1,6 +1,6 @@
 # Auf der sibirischen Bahn nach China.
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/193411540-7086cca9-adf2-454b-abc2-2ce1ac1195c6.jpg">
+<img align="right" width="200"  src="https://user-images.githubusercontent.com/13177792/193411540-7086cca9-adf2-454b-abc2-2ce1ac1195c6.jpg">
 
 This is a git repository of the source files for the book
 "Auf der sibirischen Bahn nach China."
